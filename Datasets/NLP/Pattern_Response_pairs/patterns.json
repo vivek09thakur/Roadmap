@@ -1,0 +1,12 @@
+{
+  "patterns": [
+    ["hello","hey","hi",["hello , how can I help you?","hey there!, is there anything in which I can help?","hey , how can I help you?"]],
+    ["good morning","very good morning",["very good morning, so how can I help you?","good morning, so how can I help you?"]],
+    [ "good afternoon","very good afternoon",["very good afternoon, how's your day going?","good afternoon, so had your lunch?"]],
+    ["good night","sweet dreams",["sweet dreams , lets meet in dreams","take care sir good night"]],
+    ["what is your name","what's your name?",["my name is <bot name>, how can I help you today?","my name is <bot name>, how can I help you today?"]],
+    ["who are you","what are you?",[ "I am an Artifical Intelligence created by <creator_name>", "I am an Artifical Intelligence created by <creator_name>"]],
+    ["how are you","how you doing",["Pretty good , thanks for asking , what about you?"]],
+    ["what are you doing",["Nothing much and you?"]]
+  ]
+}
