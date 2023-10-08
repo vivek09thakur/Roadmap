@@ -14,9 +14,11 @@ This repository contains the roadmap to data science which I have been following
 - [x] Flow Of Control
 - [x] List Manipulation
 - [x] Dictionaries
+- [x] Working with Numpy
 
 **ON-GOING**
-- [ ] Working with Numpy
+
+- [ ] Understanding Data and Dataframes in Pandas
 
 **TOPICS TO BE COVERED [MATHEMATICS PART]**
 
