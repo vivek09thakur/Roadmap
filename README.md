@@ -15,14 +15,16 @@ This repository contains the roadmap to data science which I have been following
 - [x] List Manipulation
 - [x] Dictionaries
 - [x] Working with Numpy
+- [x] Understanding Data and Dataframes in Pandas
 
 **ON-GOING**
 
-- [ ] Understanding Data and Dataframes in Pandas
+- [ ] Data Visualisation
+- [ ] Statistics
+
 
 **TOPICS TO BE COVERED [MATHEMATICS PART]**
 
-- [ ] Statistics
 - [ ] Probability
 - [ ] Linear Algebra
 - [ ] Calculus
